@@ -1,0 +1,11 @@
+.tabs-container {
+  border: 1px solid #dcdfe6;
+}
+
+.tab-item {
+  display: inline-block;
+  width: calc(33.333% - 6px);
+  box-sizing: border-box;
+  margin: 3px;
+  background-color: #ecf5ff;
+}
